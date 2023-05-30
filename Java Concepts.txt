@@ -1,0 +1,23 @@
+Clase: es una plantilla predefinida que contiene los objetos que van a ser creados y sus atributos y métodos correspondientes.
+
+Objeto: es una instancia de una clase, que contiene los atributos y métodos definidos en la clase.
+
+Método: es una función o procedimiento que realiza una acción específica en un objeto o instancia de una clase.
+
+Atributo: es una característica o propiedad de una clase que se aplica a los objetos o instancias de esa clase.
+
+Setters: son métodos que se utilizan para establecer o asignar valores a los atributos de una clase. 
+Estos métodos permiten cambiar el valor de los atributos de un objeto después de que se ha creado.
+
+Getters: son métodos que se utilizan para obtener o acceder a los valores de los atributos de una clase. 
+Estos métodos permiten leer el valor de los atributos de un objeto sin cambiarlos.}
+
+Puntero: es una variable que almacena la dirección de memoria de otra variable. 
+Los punteros se utilizan para acceder y manipular datos almacenados en la memoria. 
+
+Constructor: es un método especial de una clase que se utiliza para inicializar los atributos de un objeto cuando se crea una instancia de esa clase. 
+Los constructores tienen el mismo nombre que la clase y no tienen ningún tipo de retorno. Pueden tener parámetros para inicializar los atributos con valores específicos. 
+El constructor se ejecuta automáticamente cuando se crea un objeto de la clase.
+
+GitHub: es una plataforma de desarrollo colaborativo de software para alojar proyectos utilizando el sistema de control de versiones Git. 
+Permite a los desarrolladores trabajar en equipo, colaborar en el desarrollo de software y realizar un seguimiento de los cambios realizados en el código fuente.
